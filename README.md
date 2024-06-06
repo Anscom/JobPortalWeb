@@ -11,10 +11,8 @@ Recruiter
 <br>
 <br>
 Job Seeker
-<br>
 - Upload documents
 - apply for jobs
 - saved jobs
-- <br>
 - login/logout
 
